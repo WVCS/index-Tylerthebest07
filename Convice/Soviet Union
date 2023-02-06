@@ -2,9 +2,80 @@
   <html>
  
 <head>
-  <title> </title>
+  <title>Why Soviet Union is Good</title>
 
   </head>
+  <style>
+  h1{
+  color:Purple;
+    font-style: italic;
+   font-size: 150%;
+}
+Body{
+  background-color:Grey;
+  
+}
+img{
+  height:200px;
+   border: 2px Dotted #E8CA21;
+
+}
+
+}
+
+  font-style: italic;
+
+nav {
+  list-style-type: none;
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.navClass {
+  display: inline;
+  float: right;
+  padding: 10px;
+  postion: sticky;
+  postion: -webkit-sticky;
+}
+
+a {
+  text-decoration: none;
+  color: Blue;
+  font-size: 120%;
+}
+
+.navClass:hover {
+  background-color: #E8CA21;
+}
+table, th, td {
+  border: 4px solid Black;
+  border-collapse: collapse;
+}
+    th, td {
+  padding: 10px;
+}
+    tr:hover{background-color:Orange:}
+    body {background-color: #CB0B01;}
+h4 {
+  color: #E8CA21;
+}
+.container {
+  display:flex;
+  
+}
+#middle {
+ display:flex; 
+}
+#last{
+  display:flex; 
+}
+#prop {
+  width:200px;
+}
+  </style>
 <body>
   <center>
       <title>Document</title>
