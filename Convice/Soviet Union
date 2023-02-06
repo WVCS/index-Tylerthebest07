@@ -1,1 +1,103 @@
+<center>
+  <html>
+ 
+<head>
+  <title> </title>
+
+  </head>
+<body>
+  <center>
+      <title>Document</title>
+    
+  </center>  
+       <link rel="stylesheet" href="style.css">
+  <link 
+  <nav> 
+      <li class="navClass"><a href="#top"> TOP </a></li>
+      <li class="navClass"><a href="#bottom"> BOTTOM </a></li>
+      <li class="navClass"><a href="index.html">HOME</a></li>
+  </nav>
+    <div class="container">
+    <div id="first">  
+       <h2><i>Is Communsiom Good?</i></h2>  
+ </center>
+     <h4>Yes, Of Course It Is!<h4>
+ 
+       </div>
+ <div id ="middle">
+      <ol type="1">
+        <p> Why It Is The Best?<p>
+
+      <li>Every one is more happy and obeinent!</li>
+      <li>It is against those evil caplist pigs and is more equal!</li>
+      <li>It is so fun DYING for your country to protect the MOTHERLAND!</li>
+        <li>The more Gulags, the better!</li>
+        <li>Most unique and is certified best Natinal Anthem!</li>   
+   </ol> 
+
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/U06jlgpMtQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       </div>  
+       <img src="https://cdn.britannica.com/36/22536-004-9855C103/Flag-Union-of-Soviet-Socialist-Republics.jpg">
+         <img src="https://github.com/WVCS/index-Tylerthebest07/blob/main/Untitled%20drawing%20(1).png?raw=true"> 
+     <div id="last">  
+       
+        <ul>
+          <p>Best Parts of The  Gulags </p>
+        <li> They Contain Evil Capatlist Dissidents </li>
+     <li>It makes Lazy Workers Try Harder</li>
+       <li>Get Rid of thoose Who"disagree" with communists</li>
+</ul>
+       <br>
+       
+       <table style="width:400px">
+       <i><h4>Words That Go With Each</h4></i>
+  <tr>
+    <th>Communist</th>
+    <th>Capatlist</th>
+    <th>Facist</th>
+    </tr>
+  <tr>
+    <td>Contentment</td>
+    <td>Despair</td>
+    <td> Pain </td>
+  </tr>
+  <tr>
+    <td>Satisfaction</td>
+    <td>Gloom</td>
+    <td>Death</td>
+  </tr>
+  <tr>
+    <td>Cheerfulness</td>
+    <td>Misery</td>
+    <td>Hunger</td>
+  </tr>
+</table>
+           </div>  
+              <br> 
+       <center>
+         <h4>Join The Cause, Lets Make America Decently Average<h4>
+       <div id="prop">
+       
+         <img src="https://img.huffingtonpost.com/asset/5bb285b01f00002e01239365.jpeg">
+                                             
+                                                                                                                </center>
+        
+         </div>
+<a href="https://www.cpusa.org/">Join The Communist Party Of America</a>
+
+
+     
+  
+       
+         
+        
+     
+
+  
+       </body>
+       
+<footer id="bottom">
+</footer>
+</html>
+  
 
