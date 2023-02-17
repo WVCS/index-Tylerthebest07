@@ -1,0 +1,89 @@
+body {
+  overflow-x: hidden;
+}
+
+div {
+  background-color: #F39237;
+}
+
+.wrapper {
+    display: grid;
+    background-color: #0090C1;
+    color: black;
+    padding: 15px;
+    width: 95vw;
+    margin-left: -2px;
+    margin-top: -8px;
+    height: 140vh;
+    grid-template:
+        "Nav Menu Logo
+         Time Media"
+    ;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+}
+
+/*row line / column line / end row / end column*/
+
+.Nav {
+    grid-area: 1 / 1 / 1 / 4;
+}
+
+.Menu {
+    grid-area: 2 / 1 / 6 / 3;
+  
+}
+
+.Logo {
+  grid-area: 2 / 3 / 4 / 4;
+}
+
+.Time {
+  grid-area: 4 / 3 / 6 / 4;
+  background-color:#FFDC5E;
+}
+
+
+.Media {
+  grid-area: 6 / 1 / 6 / 4;
+}
+
+body{
+  background-color: #FFDA22;
+  
+}
+nav {
+  list-style-type: none;
+  width: 100%;
+
+}
+
+.navClass {
+  display: inline;
+  float: right;
+  padding: 10px;
+  postion: sticky;
+  postion: -webkit-sticky;
+}
+.navClass:hover {
+  background-color: #1D84B5;
+  
+
+h2{
+   font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+font-size: 35px;
+  text-shadow: 2px ;
+text-decoration-line: overline underline;
+}
+  
+  table, th, td {
+  border: 4px solid Black;
+  border-collapse: collapse;
+}
+    th, td {
+  padding: 10px;
+}
+tr:nth-child(even) {
+  background-color: #F5AC72;
+}
