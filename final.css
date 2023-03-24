@@ -1,0 +1,125 @@
+body {
+  overflow-x: hidden;
+}
+
+div {
+  background-color: #0A2463;
+}
+
+.wrapper {
+    display: grid;
+    background-color:red ;
+    color: black;
+    padding: 15px;
+    width: 95vw;
+    margin-left: -2px;
+    margin-top: -8px;
+    height: fit-content;
+    grid-template:
+        "Nav Menu Logo
+         Time Media"
+    ;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+}
+
+/*row line / column line / end row / end column*/
+
+.Nav {
+    grid-area: 1 / 1 / 1 / 4;
+  border: solid #FFE900;
+}
+
+.Menu {
+    grid-area: 2 / 1 / 6 / 3;
+  border: solid #FFE900;
+  
+}
+
+.Logo {
+  grid-area: 2 / 3 / 4 / 4;
+  border: solid #FFE900;
+}
+
+.Time {
+  grid-area: 4 / 3 / 6 / 4;
+  border: solid #FFE900;
+}
+
+
+.Media {
+  grid-area: 6 / 1 / 6 / 4;
+  border: solid #FFE900;
+}
+
+body{
+  background-color:#FFE900 ;
+  
+}
+nav {
+  list-style-type: none;
+  width: 100%;
+
+}
+
+
+
+.navClass {
+  display: inline;
+  float: right;
+  padding: 10px;
+  postion: sticky;
+  postion: -webkit-sticky;
+}
+.navClass:hover {
+  background-color: #1D84B5;
+}
+  
+
+h2{
+   font-family: "Times New Roman", Times, serif;
+
+font-size: 5vh;
+  text-shadow: 2px ;
+  color:yellow;
+}
+  
+  table, th, td {
+  border: 4px solid Black;
+  border-collapse: collapse;
+}
+    th, td {
+  padding: 10px;
+}
+tr:nth-child(even) {
+  background-color: #F5AC72;
+}
+
+/*All code in this thing will apply at tablet size*/
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  div {
+    background-color:white;
+  }
+    h2{
+    color:red;
+  }
+}
+
+/*All code in this thing will apply at phone size*/
+@media screen and (max-width: 767px){
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+    div {
+    background-color:white;
+      
+  }
+  h2{
+    color:red;
+  }
+}
